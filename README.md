@@ -1,16 +1,27 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=0FF7E6&background=00000000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Harshan+%F0%9F%91%8B;Web+Developer+%7C+Student+%7C+Tech+Enthusiast;Welcome+to+my+Dev+Hub!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=0FF7E6&center=true&vCenter=true&lines=Hey,+I'm+Harshan!;Web+Developer+%7C+Student+in+UK;Cybersecurity+%7C+React+%7C+Linux+fan;Welcome+to+my+DevHub+%F0%9F%9A%80" alt="Typing SVG" />
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-3A3A3A?style=for-the-badge&logo=metasploit&logoColor=white)
+<br/>
+
+<a href="https://github.com/HARSHAN-DEVHUB/HARSHAN-DEVHUB">
+  <img src="https://img.shields.io/badge/Repo-HARSHAN--DEVHUB-blue?style=for-the-badge">
+</a>
+<a href="https://github.com/HARSHAN-DEVHUB">
+  <img src="https://img.shields.io/badge/Profile-HARSHAN--DEVHUB-green?style=for-the-badge">
+</a>
+<img src="https://komarev.com/ghpvc/?username=HARSHAN-DEVHUB&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/github/stars/HARSHAN-DEVHUB/HARSHAN-DEVHUB?style=flat-square" alt="Stars">
+  <img src="https://img.shields.io/github/forks/HARSHAN-DEVHUB/HARSHAN-DEVHUB?style=flat-square" alt="Forks">
+  <img src="https://img.shields.io/github/issues/HARSHAN-DEVHUB/HARSHAN-DEVHUB?style=flat-square" alt="Issues">
+  <img src="https://img.shields.io/github/watchers/HARSHAN-DEVHUB/HARSHAN-DEVHUB?style=flat-square" alt="Watchers">
+</p>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF" />
 
 </div>
 
@@ -18,65 +29,51 @@
 
 ## 🌟 About Me
 
-- 🇬🇧 Web developer and student based in the UK
-- 🖥️ Obsessed with **web technologies**, **cybersecurity**, and **Linux** hacks
-- ⚡ Always learning, always building, always exploring
+- 🇬🇧 Web developer & student in the UK
+- 🔥 Building with HTML, CSS, JS, React
+- 🛡️ Linux & cybersecurity enthusiast (Kali, Metasploit, Bash)
+- 🗃️ PostgreSQL & Git for powerful dev workflows
+- ⚽ Off the code: Football, hacking, trading
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects
+
+> _I'll be updating these soon!_
+>
+> - **Project One** — [_Description / link here_]
+> - **Project Two** — [_Description / link here_]
+> - **Project Three** — [_Description / link here_]
+
+---
+
+## 🧑‍💻 My Tech Stack
 
 ```bash
-Web:        HTML | CSS | JS | React
-OS:         Linux | Kali Linux
-Security:   Metasploit | Bash
-Database:   PostgreSQL
-Tools:      Git
+Languages:   HTML | CSS | JavaScript | Bash
+Frameworks:  React
+OS:          Linux (Kali)
+Tools:       Metasploit | PostgreSQL | Git
 ```
 
 ---
 
-## 🚩 Projects
-
-> **Check out some of my work below!**
->
-> - [Project One](#)  
->   _Short description here_
-> - [Project Two](#)  
->   _Short description here_
-> - [Project Three](#)  
->   _Short description here_
-
----
-
-## ⚽️ More About Me
+## ⚡ Fun Stuff
 
 | ⚽ Football | 🕶️ Hacking | 📈 Trading |
 |:----------:|:----------:|:----------:|
 
 ---
 
-## 🌐 Find Me Online
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](#)
-[![Blog](https://img.shields.io/badge/Blog-Visit-orange?style=for-the-badge&logo=dev.to)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See-green?style=for-the-badge&logo=github)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Update-blue?style=for-the-badge&logo=linkedin)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-Update-1DA1F2?style=for-the-badge&logo=twitter)](#)
+[![Blog](https://img.shields.io/badge/Blog-Update-orange?style=for-the-badge&logo=dev.to)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Update-green?style=for-the-badge&logo=github)](#)
 
 ---
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Animated">
-
+  <b>“Code. Hack. Play. Repeat.”</b>
 </div>
-
----
-
-> **"Code. Hack. Play. Repeat."**
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HARSHAN-DEVHUB&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</p>
