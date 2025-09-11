@@ -1,79 +1,87 @@
-<div align="center">
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="vertical-align:middle">, I'm HARSHAN
+</h1>
+<h3 align="center">Developer | Ethical Hacker | Security Enthusiast</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=0FF7E6&center=true&vCenter=true&lines=Hey,+I'm+Harshan!;Web+Developer+%7C+Student+in+UK;Cybersecurity+%7C+React+%7C+Linux+fan;Welcome+to+my+DevHub+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://github.com/HARSHAN-DEVHUB/HARSHAN-DEVHUB">
-  <img src="https://img.shields.io/badge/Repo-HARSHAN--DEVHUB-blue?style=for-the-badge">
-</a>
-<a href="https://github.com/HARSHAN-DEVHUB">
-  <img src="https://img.shields.io/badge/Profile-HARSHAN--DEVHUB-green?style=for-the-badge">
-</a>
-<img src="https://komarev.com/ghpvc/?username=HARSHAN-DEVHUB&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-
-<br/>
-
-<p>
-  <img src="https://img.shields.io/github/stars/HARSHAN-DEVHUB/HARSHAN-DEVHUB?style=flat-square" alt="Stars">
-  <img src="https://img.shields.io/github/forks/HARSHAN-DEVHUB/HARSHAN-DEVHUB?style=flat-square" alt="Forks">
-  <img src="https://img.shields.io/github/issues/HARSHAN-DEVHUB/HARSHAN-DEVHUB?style=flat-square" alt="Issues">
-  <img src="https://img.shields.io/github/watchers/HARSHAN-DEVHUB/HARSHAN-DEVHUB?style=flat-square" alt="Watchers">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF6B35&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Cybersecurity+Learner;Ethical+Hacker;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding GIF" />
+---
 
-</div>
+## <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="30"> About Me
+
+- 🎓 Student at **University of Portsmouth**
+- 💻 Passionate about **Full Stack Development** & **Cybersecurity**
+- 🛡️ Exploring **Ethical Hacking** to make the web safer
+- 🌱 Currently learning: Advanced JavaScript, Penetration Testing, Web Security
+- 🏆 Goal: Build secure, scalable, and innovative applications
 
 ---
 
-## 🌟 About Me
+## 🛠️ Languages & Tools
 
-- 🇬🇧 Web developer & student in the UK
-- 🔥 Building with HTML, CSS, JS, React
-- 🛡️ Linux & cybersecurity enthusiast (Kali, Metasploit, Bash)
-- 🗃️ PostgreSQL & Git for powerful dev workflows
-- ⚽ Off the code: Football, hacking, trading
-
----
-
-## 🚀 Featured Projects
-
-> _I'll be updating these soon!_
->
-> - **Project One** — [_Description / link here_]
-> - **Project Two** — [_Description / link here_]
-> - **Project Three** — [_Description / link here_]
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,linux" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4.svg?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6A00.svg?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white"/>
+</p>
 
 ---
 
-## 🧑‍💻 My Tech Stack
+## 🏆 GitHub Trophies
 
-```bash
-Languages:   HTML | CSS | JavaScript | Bash
-Frameworks:  React
-OS:          Linux (Kali)
-Tools:       Metasploit | PostgreSQL | Git
-```
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HARSHAN-DEVHUB&theme=radical&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 ---
 
-## ⚡ Fun Stuff
+## 🚀 Projects
 
-| ⚽ Football | 🕶️ Hacking | 📈 Trading |
-|:----------:|:----------:|:----------:|
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Update-blue?style=for-the-badge&logo=linkedin)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-Update-1DA1F2?style=for-the-badge&logo=twitter)](#)
-[![Blog](https://img.shields.io/badge/Blog-Update-orange?style=for-the-badge&logo=dev.to)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Update-green?style=for-the-badge&logo=github)](#)
+- **[Delicious Foodies](https://github.com/HARSHAN-DEVHUB/Delicious-Foodies)**: Modern restaurant web app with dynamic menu, secure ordering, and beautiful UI.
+- **[PenTest Toolkit](#)**: A penetration testing toolkit for learning and automating vulnerability scanning.
+- **[Crypto Utility](#)**: JavaScript utility for encoding, decoding, and encrypting data.
 
 ---
 
-<div align="center">
-  <b>“Code. Hack. Play. Repeat.”</b>
-</div>
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HARSHAN-DEVHUB&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHAN-DEVHUB&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HARSHAN-DEVHUB&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
