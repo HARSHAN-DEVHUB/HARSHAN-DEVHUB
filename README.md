@@ -22,8 +22,8 @@
 
 ## 🚀 Projects & Showcases  
 
-- 🧠 **[EDITH](https://github.com/YOUR_USERNAME/edith)** — AI-powered laptop concept  
-- 🤖 **[Forex Trading Bots](https://github.com/YOUR_USERNAME/forex-eas)** — Custom MT5 Expert Advisors  
+- 🧠 **[EDITH](https://github.com/HARSHAN-DEVHUB/edith)** — AI-powered laptop concept  
+- 🤖 **[Forex Trading Bots](https://github.com/HARSHAN-DEVHUB/forex-eas)** — Custom MT5 Expert Advisors  
 - 🌍 **[Portfolio Website](https://harshan.co.uk)** — Modern web tech & smooth animations  
 
 ---
@@ -31,10 +31,10 @@
 ## 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HARSHAN-DEVHUB&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=HARSHAN-DEVHUB&theme=radical&hide_border=true" width="48%"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHAN-DEVHUB&layout=compact&theme=radical&hide_border=true" width="48%"/>
 </div>
 
 ---
@@ -42,8 +42,9 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://github.com/HARSHAN-DEVHUB/HARSHAN-DEVHUB/blob/output/snake.svg" alt="snake animation"/>
 </p>
+
 
 ---
 
@@ -65,5 +66,5 @@
 
 <p align="center">
   🚀 Thanks for visiting — let’s build something great together! 💡 <br/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=00C896" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=HARSHAN-DEVHUB&style=flat-square&color=00C896" alt="Profile views"/>
 </p>
